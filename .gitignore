@@ -1,0 +1,5 @@
+# ignore debug files
+s2e-last
+s2e-last/
+s2e-out-*/
+*.ini
